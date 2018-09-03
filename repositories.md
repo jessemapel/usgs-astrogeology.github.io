@@ -4,7 +4,16 @@ permalink: /repositories/
 layout: page
 ---
 
+## Community Sensor Model
+- [Community Sensor Model (csm)](https://github.com/USGS-Astrogeology/csm): We maintain a fork of the Community Sensor Model API that is built using [TravisCI](https://travis-ci.org/USGS-Astrogeology/conda-libcsm).
+- [CSM-SWIG](https://github.com/USGS-Astrogeology/CSM-Swig): While the CSM is developed and accessible via C++, we also maintain [SWIG](https://github.com/swig/swig) wrappers. Currently, these are built for Python. As the CSM is an API, this wrapper will work for any CSM compliant implementation. If you would like to see another SWIG supported language added, get in touch with an issue or PR!
+- [CSM-CameraModel](https://github.com/USGS-Astrogeology/CSM-CameraModel): This repository contains the ASC maintained CSM compliant sensor models.
+- [SensorUtils]
+- [SensorUtils-SWIG]
+- [Pfeffernusse]
+
 ## C++
+- [ISIS3]
 
 ## Python
 - [autocnet](https://github.com/USGS-Astrogeology/autocnet): A library for the automated extraction and matching of image correspondences using computer vision and photogrammetry techniques. API Documentation is available [here](https://usgs-astrogeology.github.io/autocnet/).
